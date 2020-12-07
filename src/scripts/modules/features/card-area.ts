@@ -20,21 +20,21 @@ export function repoCardArea (state:any) {
             Order by:
             <span
             onclick=${setProjectFiltersOrdered}
-            tabindex="1"
+            tabindex="5"
             role="button"
             aria-pressed="false"
             class="${ filters.orderByInterestesting ? "re-link-button selected" : "re-link-button" }">
             interesting</span> |
             <span
             onclick=${setProjectFilterAscending}
-            tabindex="0"
+            tabindex="6"
             role="button"
             aria-pressed="false"
             class="${ filters.isAscending ? "re-link-button selected" : "re-link-button" }"
             >recent</span> |
             <span
             onclick=${setProjectFilterAscending}
-            tabindex="2"
+            tabindex="7"
             role="button"
             aria-pressed="false"
             class="${ !filters.isAscending ? "re-link-button selected" : "re-link-button" }">
