@@ -3,7 +3,7 @@
         <div class="placeholder re-display-ib" style="${r}"></div>
     `}function Hr(e,t){function r(o){let a=["preact-snake-game","pet-parade-bingo","robotss","lighterHTML-stress-test","starlight","npc-character-gen","decipher-rpg-system","horde","order-grocery-lists","space-madness","moles","lodestone","tine","spite"];return a.includes(o)?_` | <a href="${"https://robertpage.github.io/"+o+"/"}" rel="noopener noreferrer nofollow" target="_blank">Demo</a>`:""}return _`
         <div class="re-repo-card" data-i=${t}>
-            ${e.name?_`<img class="re-repo-img" src="${"/images/repo-icons/"+e.name+".svg"}" alt="Repo icon">`:q("1rem","1rem")}
+            ${e.name?_`<img class="re-repo-img" src="${"/portfolio/images/repo-icons/"+e.name+".svg"}" alt="Repo icon">`:q("1rem","1rem")}
             ${e.name?_`<h2 class="re-margin-none re-display-ib re-capitalize">${e.name.replace(/-/g," ")}</h2>`:q("30%","0.8rem")}
             ${e.html_url?_`<div class="re-links-wrapper"><a href="${e.html_url}" rel="noopener noreferrer nofollow" target="_blank">Repository</a>${r(e.name)}</div>`:""}
             <p>${e.description?e.description:q("70%","0.8rem")}</p>
