@@ -41,11 +41,11 @@
 <body data-barba="wrapper" id="top" itemscope itemtype="http://schema.org/WebPage">
   <header class="navbar">
     <section class="re-main re-navbar-section">
-      <a href="./" class=re-nav-link">&#129302; Home</a>&#32;|&#32;
-      <a href="./resume/" class=re-nav-link">Resume</a>&#32;|&#32;
-      <a href="./projects/" class=re-nav-link">Projects</a>&#32;|&#32;
-      <a href="./testimonials/" class=re-nav-link">Testimonials</a>&#32;|&#32;
-      <a href="./dev-compass/" class=re-nav-link">Philosophies</a>
+      <a href="https://robertpage.github.io/portfolio/" class=re-nav-link">&#129302; Home</a>&#32;|&#32;
+      <a href="https://robertpage.github.io/portfolio/resume/" class=re-nav-link">Resume</a>&#32;|&#32;
+      <a href="https://robertpage.github.io/portfolio/projects/" class=re-nav-link">Projects</a>&#32;|&#32;
+      <a href="https://robertpage.github.io/portfolio/testimonials/" class=re-nav-link">Testimonials</a>&#32;|&#32;
+      <a href="https://robertpage.github.io/portfolio/dev-compass/" class=re-nav-link">Philosophies</a>
     </section>
   </header>
   <div class="re-spacer"></div>
