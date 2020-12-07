@@ -17,7 +17,7 @@ export function repoCard (cardData:any, i) {
         <div class="re-repo-card" data-i=${i}>
             ${
                 cardData.name
-                ? html`<img class="re-repo-img" src="${"/images/repo-icons/"+cardData.name+".svg"}" alt="Repo icon">`
+                ? html`<img class="re-repo-img" src="${"/portfolio/images/repo-icons/"+cardData.name+".svg"}" alt="Repo icon">`
                 : placeholder('1rem', '1rem')
             }
             ${
