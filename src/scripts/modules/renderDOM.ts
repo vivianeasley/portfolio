@@ -7,7 +7,7 @@ import { aboutSection } from './features/about'
 
 export function renderDOM (state:any) {
   const routes = {
-    "/": function renderhome () {
+    "/portfolio/": function renderhome () {
 
       let profileNode = document.querySelector(".profile");
 
@@ -17,7 +17,7 @@ export function renderDOM (state:any) {
       `);
 
     },
-    "/projects/": function renderprojects () {
+    "/portfolio/projects/": function renderprojects () {
 
       let reposNode = document.querySelector(".repos");
 
