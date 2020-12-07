@@ -4,7 +4,7 @@ import { placeholder } from './placeholder';
 export function repoCard (cardData:any, i) {
 
     function doesDemoExist (name:string) {
-        const demos = ["preact-snake-game","pet-parade-bingo","robotss","lighterHTML-stress-test","starlight","npc-character-gen","decipher-rpg-system","horde","order-grocery-lists","space-madness","moles","lodestone","tine","spite"];
+        const demos = ["preact-snake-game","pet-parade-bingo","robotss","lighterHTML-stress-test","starlight","npc-character-gen","decipher-rpg-system","horde","order-grocery-lists","space-madness","moles","lodestone","tine","spite","string-snake-game"];
 
 
         if (demos.includes(name)) {
