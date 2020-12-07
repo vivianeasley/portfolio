@@ -3,9 +3,7 @@ import { initState, getCurrentState, updateState } from "./modules/state/managem
 import barba from '@barba/core';
 // import anime from 'animejs/lib/anime.es.js';
 
-barba.init({
-   prefetchIgnore: ['/', 'projects','resume']
- });
+barba.init();
 
 
 window.onload = function () {
