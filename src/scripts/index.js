@@ -4,10 +4,6 @@ import barba from '@barba/core';
 // import anime from 'animejs/lib/anime.es.js';
 
 barba.init();
-<<<<<<< HEAD
-
-=======
->>>>>>> a596219ae10b6fc111c5c3da1ec996a288705b90
 
 window.onload = function () {
    if (!window) return;
