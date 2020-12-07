@@ -1,13 +1,16 @@
-# Static Site Base
+# Simple Portfolio Site and Experiement with Barba.js
 
-This is the start for my web projects that tend to be static sites. This uses:
+This uses:
 - 11ty to generate static files
+- Barba.js to fake an SPA
+- Immer for basic state managment
+- LighterHTML for efficent DOM updates
 - esbuild to compile JS/TS, and minify
 - light-server to run dev server
 - SCSS rarely ever used outside of imports
 - PostCSS css post processing
--- CSSnano minification
--- Autoprefixer prefixer
+- CSSnano minification
+- Autoprefixer prefixer
 
 ## To Run
 npm install
