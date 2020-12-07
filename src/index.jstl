@@ -1,0 +1,21 @@
+<section class="profile" data-barba-namespace="home">
+    <div class="re-spacer-sm"></div>
+    <div class="re-overflow-h">
+        <div class="re-about-image re-float-l">
+            <div class="placeholder re-display-ib" style="width: 70px; height: 70px;"></div><!---0.860902%-->
+        </div>
+        <h1 class="re-margin-none">Robert Page Easley</h1>
+        <h2 class="re-margin-none">Looking for community, challenges, and collaborations</h2>
+    </div>
+    <hr>
+    <div>
+        <p>
+                <div class="placeholder re-display-ib" style="width: 100%; height: 0.8rem;"></div><!---0.860902%-->
+                <div class="placeholder re-display-ib" style="width: 90%; height: 0.8rem;"></div><!---0.860902%-->
+                <div class="placeholder re-display-ib" style="width: 95%; height: 0.8rem;"></div><!---0.860902%-->
+                <div class="placeholder re-display-ib" style="width: 100%; height: 0.8rem;"></div><!---0.860902%-->
+                <div class="placeholder re-display-ib" style="width: 80%; height: 0.8rem;"></div><!---0.860902%-->
+            </p><!---0.860902%-->
+
+    </div>
+</section><!---0.860902%-->

@@ -1,0 +1,25 @@
+.re-repo-card {
+    padding: 5px 12px 0 12px;
+    border-radius: 8px;
+    border: 1px solid #eaeaea;
+    box-shadow: 0px 10px 25px -3px rgba(0,0,0,0.15);
+    margin: 10px 0 24px 0;
+    min-height: 100px;
+}
+
+.re-repo-img {
+    margin-right: 10px;
+    margin-bottom: -3px;
+}
+
+.re-links-wrapper {
+    float: right;
+    margin: 5px;
+}
+
+@media only screen and (max-width: 500px) {
+    .re-links-wrapper {
+        float: none;
+        margin: 0;
+    }
+}
