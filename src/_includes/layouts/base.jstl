@@ -15,16 +15,16 @@
   <meta property="og:image" content=""> -->
 
   <!-- https://realfavicongenerator.net -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/portfolio/images/meta-icons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/portfolio/images/meta-icons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/portfolio/images/meta-icons/favicon-16x16.png">
-  <link rel="manifest" href="/portfolio/images/meta-icons/site.webmanifest">
-  <link rel="mask-icon" href="/portfolio/images/meta-icons/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="shortcut icon" href="/portfolio/images/meta-icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="./images/meta-icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/meta-icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./images/meta-icons/favicon-16x16.png">
+  <link rel="manifest" href="./images/meta-icons/site.webmanifest">
+  <link rel="mask-icon" href="./images/meta-icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="./images/meta-icons/favicon.ico">
   <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="msapplication-config" content="/portfolio/images/meta-icons/browserconfig.xml">
+  <meta name="msapplication-config" content="./images/meta-icons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
-  <link rel="stylesheet" href="/portfolio/styles/index.css">
+  <link rel="stylesheet" href="./styles/index.css">
   <script>
     var global = global || window;
     var Buffer = Buffer || [];
@@ -52,6 +52,6 @@
   <div class="re-main re-fade" data-barba="container">
     ${content}
   </div>
-  <script src="/portfolio/scripts/index.js"></script>
+  <script src="./scripts/index.js"></script>
 </body>
 </html>
