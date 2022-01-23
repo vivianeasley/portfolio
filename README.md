@@ -1,4 +1,4 @@
-# Simple Portfolio Site and Experiement with Barba.js
+# Simple Portfolio Site and Experiement with Barba.js (currently broken due to account name change)
 
 ## [SITE](https://vivianeasley.github.io/portfolio/)
 
