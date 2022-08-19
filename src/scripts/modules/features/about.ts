@@ -16,7 +16,7 @@ export function aboutSection (state:any) {
                         : placeholder("70px", "70px")
                     }
                 </div>
-                <h1 class="re-margin-none">Robert Page Easley</h1>
+                <h1 class="re-margin-none">Vivian Page Easley</h1>
                 <h2 class="re-margin-none">Looking for community, challenges, and collaborations</h2>
             </div>
             <hr>

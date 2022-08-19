@@ -34,8 +34,8 @@ async function init (pathName) {
 
    if (pathName === "/portfolio/") {
       // const userResponse = getUser();
-        const userResponse = await request('GET /users/{robertpage}', {
-            robertpage: 'robertpage'
+        const userResponse = await request('GET /users/{vivianeasley}', {
+            vivianeasley: 'vivianeasley'
           })
 
       if (userResponse) {
@@ -52,8 +52,8 @@ async function init (pathName) {
    if (pathName === "/portfolio/projects/") {
       // currentState.repos === undefined
       // const repoResponse = getRepos();
-      const repoResponse = await request('GET /users/robertpage/repos', {
-        username: 'robertpage'
+      const repoResponse = await request('GET /users/vivianeasley/repos', {
+        username: 'vivianeasley'
       })
 
       if (firstRender) {

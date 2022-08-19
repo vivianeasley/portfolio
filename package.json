@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertpage/portfolio.git"
+    "url": "git+https://github.com/vivianeasley/portfolio.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robertpage/portfolio"
+    "url": "https://github.com/vivianeasley/portfolio"
   },
   "devDependencies": {
     "esbuild": "^0.8.17",

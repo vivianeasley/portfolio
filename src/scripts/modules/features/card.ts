@@ -8,7 +8,7 @@ export function repoCard (cardData:any, i) {
 
 
         if (demos.includes(name)) {
-            return html` | <a href="${"https://robertpage.github.io/"+name+"/"}" rel="noopener noreferrer nofollow" target="_blank">Demo</a>`
+            return html` | <a href="${"https://vivianeasley.github.io/"+name+"/"}" rel="noopener noreferrer nofollow" target="_blank">Demo</a>`
         }
         return '';
     }
